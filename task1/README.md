@@ -1,6 +1,6 @@
 #Task 1
 
-##QUestion
+##Question
 
 
 Convert this pseudocode into actual code. Make it run. Make sure you understand the results. This is a fundamental lesson:

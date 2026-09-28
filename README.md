@@ -1,13 +1,11 @@
 # Umuzi Practice Challenge
  
 This repository contains my solutions for the Umuzi Pre-Bootcamp Practice Challenges.
+
  
-## Tasks
- 
-- Task 1: Variables and pseudocode
-- Task 2
-- Task 3
- 
+The challenges focus on JavaScript fundamentals, including variables, functions, loops, conditionals, strings, mathematical operations, and problem-solving.
+
+ 
 ## Technologies Used
  
 - JavaScript
